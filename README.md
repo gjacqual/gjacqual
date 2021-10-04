@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gjacqual
+- 🌱 I’m currently learning C language in School 21
